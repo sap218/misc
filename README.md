@@ -1,2 +1,2 @@
 # misc
-for files with no project
+For files with no project location
