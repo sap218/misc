@@ -5,11 +5,9 @@ For files with no project location
 My CV is available here.
 
 ### Bioinformatics
-The finished poster and report.
-<br />
 The poster has been recently updated (15-Mar-2018) for the BCS Lovelace Colloquium 2018.
 <br />
-**Note**: the report isn't finalised.
+**Note**: the article is available here: https://www.biorxiv.org/content/early/2018/03/28/288969
 
 ### BCS Lovelace Colloquium
 Based on web design and how 'someone has to do it' - 2017.
