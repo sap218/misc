@@ -16,3 +16,4 @@ Bioinformatics Research Project, "*An analysis of current software for nanopore 
 
 ### Undergraduate Dissertation
 Web-based project (2017). Skills: HTML, CSS, PHP, JavaScript and business analysis
+**Note**: Undergraduate Summary available too (word count/lines of code).
