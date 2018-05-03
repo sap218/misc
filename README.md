@@ -1,5 +1,5 @@
 # misc
-For files with no project location
+Finalised PDF files located here.
 
 ### CV
 My CV is available here.
