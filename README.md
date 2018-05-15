@@ -6,6 +6,7 @@ My CV is available here.
 
 ### Bioinformatics
 Project: "An analysis of current state of the art software on nanopore metagenomic data"
+<br />
 The poster has been recently updated (15-Mar-2018) for the BCS Lovelace Colloquium 2018.
 <br />
 **Note**: the paper is available here: https://doi.org/10.1101/288969
