@@ -14,7 +14,7 @@ The poster has been recently updated (15-Mar-2018) for the BCS Lovelace Colloqui
 ### BCS Lovelace Colloquium
 "Making websites pretty" - based on web design and how 'someone has to do it' - 2017.
 <br />
-Bioinformatics Research Project (see poster) - 2018.
+"An analysis of current state of the art software on nanopore metagenomic data" - bioinformatics research project (see poster) - 2018.
 
 ### Undergraduate Dissertation
 Web-based project (2017). Skills: HTML, CSS, PHP, JavaScript and business analysis.
