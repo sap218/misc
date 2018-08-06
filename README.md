@@ -10,9 +10,9 @@ Project: "An analysis of current state of the art software on nanopore metagenom
 **Note**: [paper is available](https://doi.org/10.1101/288969), poster recently updated (15-Mar-2018) for the BCS Lovelace Colloquium 2018.
 
 ### BCS Lovelace Colloquium
-"[Making websites pretty](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf)" - based on web design and how 'someone has to do it' (2017).
+"[Making websites pretty](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf)" - based on web design and my UG dissertation (2017).
 <br />
-"[An analysis of current state of the art software on nanopore metagenomic data](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf)" - bioinformatics research project [poster] (2018).
+"[An analysis of current state of the art software on nanopore metagenomic data](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf)" - bioinformatics research project (2018).
 
 ### Undergraduate Dissertation
 "[Little Cake Box](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf)" - Web-based project (2017). Skills: HTML, CSS, PHP, JavaScript and business analysis.
