@@ -4,6 +4,15 @@ Finalised PDF files located here, or files with no specific project location.
 ### CV
 My CV is [available](https://github.com/sap218/misc/blob/master/CV.pdf).
 
+### Postgraduate Dissertation
+Data Science MSc Aberystwyth University (2017-18).
+<br />
+"[acidoseq](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf)" - Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria (2018). Skills: Python, Bioinformatics.
+<br />
+**Note**: project repository available here: [acidoseq](https://github.com/sap218/acidoseq), a Python tool to study Acidobacteria within a soil sample.
+<br />
+See [acido_bot](https://twitter.com/acido_bot) - a Twitter bot dispensing facts about Acidobacteria everyday around 1pm.
+
 ### Bioinformatics
 Project: "An analysis of current state of the art software on nanopore metagenomic data" (2017).
 <br />
@@ -20,12 +29,3 @@ Business IT BSc Aberystwyth University (2014-17).
 "[Little Cake Box](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf)" - Web-based project (2017). Skills: HTML, CSS, PHP, JavaScript and business analysis.
 <br />
 **Note**: [Undergraduate Summary](https://github.com/sap218/misc/blob/master/undergraduate_summary.pdf) available too (word count/lines of code).
-
-### Postgraduate Dissertation
-Data Science MSc Aberystwyth University (2017-18).
-<br />
-"[acidoseq](https://github.com/sap218/acidoseq)" - Python tool to study Acidobacteria within a soil sample (2018). Skills: Python, Bioinformatics.
-<br />
-**Note**: will be available after marking (Dec 2018).
-<br />
-See [acido_bot](https://twitter.com/acido_bot) - a Twitter bot dispensing facts about Acidobacteria everyday around 1pm.
