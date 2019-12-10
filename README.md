@@ -4,16 +4,13 @@ Finalised PDF files located here, or files with no specific project location.
 ### CV
 My CV is [available](https://github.com/sap218/misc/blob/master/CV.pdf).
 
-### Bioinformatics Research Project (2018) | bioinformatics_poster.pdf
-[Project](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf): "An analysis of current state of the art software on nanopore metagenomic data" (2017).
+### Bioinformatics Research Project (2017) | bioinformatics_poster.pdf
+["An analysis of current state of the art software on nanopore metagenomic data"](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf) (2017).
 <br />
-**Note**: Poster recently updated (15-Mar-2018) for the BCS Lovelace Colloquium 2018. Available via [BioRxiv](https://doi.org/10.1101/288969).
+**Note**: Poster recently updated (15-Mar-2018) for the **BCS Lovelace Colloquium 2018**. Academic Paper available via [BioRxiv](https://doi.org/10.1101/288969).
 
 ### BCS Lovelace Colloquium 2017 | lovelace_poster_2017.pdf
 "[Making websites pretty](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf)" - based on web design and my UG dissertation (2017).
-
-### BCS Lovelace Colloquium 2018 | bioinformatics_poster.pdf
-"[An analysis of current state of the art software on nanopore metagenomic data](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf)" - bioinformatics research project (2018).
 
 ### Postgraduate | postgraduate_dissertation.pdf
 Data Science MSc Aberystwyth University (2017-18).
