@@ -22,7 +22,7 @@ Academic Paper available via [bioRxiv](https://doi.org/10.1101/288969).
 ### Postgraduate (2018) `postgraduate_dissertation.pdf`
 Data Science MSc Aberystwyth University (2017-18).
 <br />
-[The full Masters dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf) - Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria (2018). Skills: Python, Bioinformatics.
+[The full Masters dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf) - Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria (2018).
 <br />
 **Note**: GitHub repository: [acidoseq](https://github.com/sap218/acidoseq), a Python tool to study Acidobacteria within a soil sample.
 <br />
