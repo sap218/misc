@@ -11,8 +11,8 @@
 ### `lovelace_poster_2017.pdf` (2017)
 [Making websites pretty](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf) - based on web design and my [UG dissertation](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf).
 
-### `phd_mrc-symposium_poster.pdf` (2020)
-[Machine Learning guided and manual curation of an Ontology for Uveitis](https://github.com/sap218/misc/blob/master/phd_mrc-symposium_poster.pdf) - poster for the 2020 MRC symposium (3rd prize winner!).
+### `phd_mrc-symposium_poster.pdf` (2019)
+[Machine Learning guided and manual curation of an Ontology for Uveitis](https://github.com/sap218/misc/blob/master/phd_mrc-symposium_poster.pdf) - poster for the 2019 MRC Student Symposium (3rd prize winner!).
 
 ### `postgraduate_dissertation.pdf` (2018)
 Data Science MSc Aberystwyth University (2017-18).
